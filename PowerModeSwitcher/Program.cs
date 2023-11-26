@@ -2,9 +2,5 @@
 
 internal abstract class Program
 {
-    private static void Main()
-    {
-        var id = PowerMode.GetPowerMode();
-        Console.Out.WriteLine(id);
-    }
+    private static void Main() { }
 }

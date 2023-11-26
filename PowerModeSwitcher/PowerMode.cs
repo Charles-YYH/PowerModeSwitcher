@@ -1,4 +1,5 @@
-﻿using System.Runtime.InteropServices;
+﻿// https://github.com/AaronKelley/PowerMode/blob/main/SetPowerMode.cs
+using System.Runtime.InteropServices;
 
 namespace PowerModeSwitcher;
 
